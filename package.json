@@ -1,0 +1,23 @@
+{
+  "name": "gamma-vim-profile",
+  "version": "1.0.0",
+  "description": "gamma-vim-profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrojanBox/gamma-vim-profile.git"
+  },
+  "keywords": [
+    "gamma-vim-profile",
+    "gamma-commander"
+  ],
+  "author": "trojanbox & justwe9517",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrojanBox/gamma-vim-profile/issues"
+  },
+  "homepage": "https://github.com/TrojanBox/gamma-vim-profile#readme"
+}
